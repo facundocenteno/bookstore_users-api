@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/facundocenteno/bookstore_oauth-go v0.0.0-20230504014918-422df8909249
+	github.com/facundocenteno/bookstore_utils-go v0.0.0-20230509011920-710002122e9a
 	github.com/gin-gonic/gin v1.9.0
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/joho/godotenv v1.5.1
